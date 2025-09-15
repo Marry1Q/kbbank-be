@@ -25,7 +25,7 @@ public class LoggingConfig {
         //     log.info("로그 디렉토리 이미 존재: {}", logDir.getAbsolutePath());
         // }
         
-        log.info("=== 하나은행 백엔드 API 서버 시작 ===");
+        log.info("=== 국민은행 백엔드 API 서버 시작 ===");
         log.info("Profile: {}", System.getProperty("spring.profiles.active", "local"));
         
         // 실제 포트 번호를 동적으로 가져오기

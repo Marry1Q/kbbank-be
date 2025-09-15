@@ -26,8 +26,8 @@ public class SwaggerConfig {
     
     private Info apiInfo() {
         return new Info()
-                .title("하나은행 Backend API")
-                .description("하나은행 백엔드 API 문서")
+                .title("국민은행 Backend API")
+                .description("국민은행 백엔드 API 문서")
                 .version("1.0.0");
     }
 } 

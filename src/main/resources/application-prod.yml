@@ -3,7 +3,7 @@ server:
 
 spring:
   application:
-    name: hanabank-backend
+    name: kbbank-backend
   datasource:
     url: jdbc:${MYSQL_URL}
     username: ${MYSQLUSER}
@@ -39,7 +39,7 @@ spring:
 logging:
   level:
     root: INFO
-    com.kopo_team4.hanabank_backend: INFO
+    com.kopo_team4.kbbank_backend: INFO
 
 # Swagger/OpenAPI 설정
 springdoc:
