@@ -1,0 +1,47 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '3.5.3'
+	id 'io.spring.dependency-management' version '1.1.7'
+}
+
+group = 'com.kopo-team4'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(17)
+	}
+}
+
+repositories {
+	mavenCentral()
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	implementation 'org.springframework.boot:spring-boot-starter-jdbc'
+
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-validation'
+
+	// implementation 'org.springframework.boot:spring-boot-starter-actuator'  // Railway 컨테이너 호환성 문제로 비활성화
+
+	implementation 'mysql:mysql-connector-java:8.0.33'
+	// JSON 처리
+	implementation 'com.fasterxml.jackson.core:jackson-databind'
+	implementation 'com.fasterxml.jackson.datatype:jackson-datatype-jsr310'
+	// HTTP 클라이언트 (오픈뱅킹 API 호출용)
+	implementation 'org.springframework.boot:spring-boot-starter-webflux'
+	
+    // Swagger/OpenAPI 3.0 (version compatible with Spring Boot 3.5 / Spring Framework 6.2+)
+    implementation 'org.springdoc:springdoc-openapi-starter-webmvc-ui:2.8.8'
+	
+	compileOnly 'org.projectlombok:lombok'
+	annotationProcessor 'org.projectlombok:lombok'
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}

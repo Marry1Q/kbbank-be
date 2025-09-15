@@ -1,0 +1,703 @@
+2025-08-27 00:00:24 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=51m7s454ms).
+2025-08-27 00:09:57 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=9m2s704ms).
+2025-08-27 00:15:24 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m26s554ms).
+2025-08-27 00:16:54 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m289ms).
+2025-08-27 00:35:45 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m20s887ms).
+2025-08-27 00:51:17 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m32s5ms).
+2025-08-27 01:11:03 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=19m46s396ms).
+2025-08-27 01:44:05 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=33m1s708ms).
+2025-08-27 02:14:56 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=30m51s51ms).
+2025-08-27 02:32:23 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m26s490ms).
+2025-08-27 03:37:45 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h5m22s735ms).
+2025-08-27 05:02:58 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1h24m42s849ms).
+2025-08-27 05:06:25 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m26s722ms).
+2025-08-27 05:56:43 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=50m18s429ms).
+2025-08-27 06:44:36 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47m52s338ms).
+2025-08-27 07:07:14 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m8s375ms).
+2025-08-27 07:11:07 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=3m53s84ms).
+2025-08-27 07:59:22 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=47m45s284ms).
+2025-08-27 08:08:12 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m20s11ms).
+2025-08-27 08:26:14 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m2s18ms).
+2025-08-27 08:48:43 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=22m28s456ms).
+2025-08-27 08:54:38 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m55s60ms).
+2025-08-27 08:58:09 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m49s875ms).
+2025-08-27 09:03:18 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m9s14ms).
+2025-08-27 09:35:33 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=31m44s937ms).
+2025-08-27 09:38:25 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=1m52s147ms).
+2025-08-27 09:43:33 [http-nio-8081-exec-3] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-123456-789012
+2025-08-27 09:43:33 [http-nio-8081-exec-6] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222
+2025-08-27 09:43:33 [http-nio-8081-exec-7] INFO  c.k.h.d.t.c.TransactionController - 거래내역 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222, 조회타입: A, 정렬: D
+2025-08-27 09:43:33 [http-nio-8081-exec-6] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 09:43:33 [http-nio-8081-exec-6] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 09:43:33 [http-nio-8081-exec-7] INFO  c.k.h.d.t.service.TransactionService - 거래내역 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222, 조회타입: A, 정렬: D
+2025-08-27 09:43:33 [http-nio-8081-exec-7] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 09:43:33 [http-nio-8081-exec-6] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 성공 - 계좌번호: 110-111111-222222, 잔액: 53.00
+2025-08-27 09:43:33 [http-nio-8081-exec-7] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 09:43:33 [http-nio-8081-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 09:43:33 [http-nio-8081-exec-7] DEBUG org.hibernate.SQL - 
+    select
+        t1_0.tran_id,
+        t1_0.account_id,
+        t1_0.after_balance_amt,
+        t1_0.branch_name,
+        t1_0.created_at,
+        t1_0.inout_type,
+        t1_0.print_content,
+        t1_0.req_client_name,
+        t1_0.tran_amt,
+        t1_0.tran_date,
+        t1_0.tran_time,
+        t1_0.tran_type,
+        t1_0.updated_at,
+        t1_0.wd_account_num,
+        t1_0.wd_bank_code_std 
+    from
+        hanabank_transaction t1_0 
+    where
+        t1_0.account_id=?
+2025-08-27 09:43:33 [http-nio-8081-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 09:43:33 [http-nio-8081-exec-3] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 성공 - 계좌번호: 110-123456-789012, 잔액: 76.00
+2025-08-27 09:43:33 [http-nio-8081-exec-7] INFO  c.k.h.d.t.c.TransactionController - 거래내역 조회 성공 - 거래건수: 7
+2025-08-27 09:43:33 [http-nio-8081-exec-8] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222
+2025-08-27 09:43:33 [http-nio-8081-exec-8] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 09:43:33 [http-nio-8081-exec-8] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 09:43:33 [http-nio-8081-exec-8] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 성공 - 계좌번호: 110-111111-222222, 잔액: 53.00
+2025-08-27 09:43:33 [http-nio-8081-exec-5] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-123456-789012
+2025-08-27 09:43:33 [http-nio-8081-exec-5] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 09:43:33 [http-nio-8081-exec-5] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 09:43:33 [http-nio-8081-exec-5] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 성공 - 계좌번호: 110-123456-789012, 잔액: 76.00
+2025-08-27 09:43:33 [http-nio-8081-exec-9] INFO  c.k.h.d.t.c.TransactionController - 거래내역 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222, 조회타입: A, 정렬: D
+2025-08-27 09:43:33 [http-nio-8081-exec-9] INFO  c.k.h.d.t.service.TransactionService - 거래내역 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222, 조회타입: A, 정렬: D
+2025-08-27 09:43:33 [http-nio-8081-exec-9] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 09:43:33 [http-nio-8081-exec-9] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 09:43:33 [http-nio-8081-exec-9] DEBUG org.hibernate.SQL - 
+    select
+        t1_0.tran_id,
+        t1_0.account_id,
+        t1_0.after_balance_amt,
+        t1_0.branch_name,
+        t1_0.created_at,
+        t1_0.inout_type,
+        t1_0.print_content,
+        t1_0.req_client_name,
+        t1_0.tran_amt,
+        t1_0.tran_date,
+        t1_0.tran_time,
+        t1_0.tran_type,
+        t1_0.updated_at,
+        t1_0.wd_account_num,
+        t1_0.wd_bank_code_std 
+    from
+        hanabank_transaction t1_0 
+    where
+        t1_0.account_id=?
+2025-08-27 09:43:33 [http-nio-8081-exec-9] INFO  c.k.h.d.t.c.TransactionController - 거래내역 조회 성공 - 거래건수: 7
+2025-08-27 11:14:24 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m57s81ms).
+2025-08-27 11:20:01 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m7s541ms).
+2025-08-27 11:28:32 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=8m719ms).
+2025-08-27 11:39:45 [http-nio-8081-exec-6] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222
+2025-08-27 11:39:45 [http-nio-8081-exec-4] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-123456-789012
+2025-08-27 11:39:45 [http-nio-8081-exec-6] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 11:39:45 [http-nio-8081-exec-4] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 11:39:45 [http-nio-8081-exec-6] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 11:39:45 [http-nio-8081-exec-4] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 11:39:45 [http-nio-8081-exec-6] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 성공 - 계좌번호: 110-111111-222222, 잔액: 53.00
+2025-08-27 11:39:45 [http-nio-8081-exec-3] INFO  c.k.h.d.t.c.TransactionController - 거래내역 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222, 조회타입: A, 정렬: D
+2025-08-27 11:39:45 [http-nio-8081-exec-3] INFO  c.k.h.d.t.service.TransactionService - 거래내역 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222, 조회타입: A, 정렬: D
+2025-08-27 11:39:45 [http-nio-8081-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 11:39:45 [http-nio-8081-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 11:39:45 [http-nio-8081-exec-3] DEBUG org.hibernate.SQL - 
+    select
+        t1_0.tran_id,
+        t1_0.account_id,
+        t1_0.after_balance_amt,
+        t1_0.branch_name,
+        t1_0.created_at,
+        t1_0.inout_type,
+        t1_0.print_content,
+        t1_0.req_client_name,
+        t1_0.tran_amt,
+        t1_0.tran_date,
+        t1_0.tran_time,
+        t1_0.tran_type,
+        t1_0.updated_at,
+        t1_0.wd_account_num,
+        t1_0.wd_bank_code_std 
+    from
+        hanabank_transaction t1_0 
+    where
+        t1_0.account_id=?
+2025-08-27 11:39:45 [http-nio-8081-exec-4] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 성공 - 계좌번호: 110-123456-789012, 잔액: 76.00
+2025-08-27 11:39:45 [http-nio-8081-exec-3] INFO  c.k.h.d.t.c.TransactionController - 거래내역 조회 성공 - 거래건수: 7
+2025-08-27 11:39:45 [http-nio-8081-exec-7] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-123456-789012
+2025-08-27 11:39:45 [http-nio-8081-exec-7] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 11:39:45 [http-nio-8081-exec-7] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 11:39:45 [http-nio-8081-exec-7] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 성공 - 계좌번호: 110-123456-789012, 잔액: 76.00
+2025-08-27 11:39:45 [http-nio-8081-exec-8] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222
+2025-08-27 11:39:45 [http-nio-8081-exec-8] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 11:39:45 [http-nio-8081-exec-8] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 11:39:45 [http-nio-8081-exec-8] INFO  c.k.h.d.a.c.AccountController - 계좌 잔액 조회 성공 - 계좌번호: 110-111111-222222, 잔액: 53.00
+2025-08-27 11:39:45 [http-nio-8081-exec-5] INFO  c.k.h.d.t.c.TransactionController - 거래내역 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222, 조회타입: A, 정렬: D
+2025-08-27 11:39:45 [http-nio-8081-exec-5] INFO  c.k.h.d.t.service.TransactionService - 거래내역 조회 요청 - CI: CI12345678901234567890, 계좌번호: 110-111111-222222, 조회타입: A, 정렬: D
+2025-08-27 11:39:45 [http-nio-8081-exec-5] DEBUG org.hibernate.SQL - 
+    select
+        u1_0.user_id,
+        u1_0.created_at,
+        u1_0.email,
+        u1_0.phone_number,
+        u1_0.updated_at,
+        u1_0.user_ci,
+        u1_0.user_num,
+        u1_0.username 
+    from
+        hanabank_user u1_0 
+    where
+        u1_0.user_ci=?
+2025-08-27 11:39:45 [http-nio-8081-exec-5] DEBUG org.hibernate.SQL - 
+    select
+        a1_0.account_id,
+        a1_0.account_issue_date,
+        a1_0.account_local_code,
+        a1_0.account_num,
+        a1_0.account_num_masked,
+        a1_0.account_seq,
+        a1_0.account_type,
+        a1_0.activity_type,
+        a1_0.balance_after_cancel_yn,
+        a1_0.balance_amt,
+        a1_0.balance_calc_basis_1,
+        a1_0.balance_calc_basis_2,
+        a1_0.bank_code_std,
+        a1_0.bank_linked_yn,
+        a1_0.created_at,
+        a1_0.deposit_amt,
+        a1_0.dormancy_yn,
+        a1_0.investment_linked_yn,
+        a1_0.last_tran_date,
+        a1_0.maturity_date,
+        a1_0.product_name,
+        a1_0.product_sub_name,
+        a1_0.savings_bank_code,
+        a1_0.updated_at,
+        a1_0.user_id 
+    from
+        hanabank_account a1_0 
+    where
+        a1_0.user_id=? 
+        and a1_0.account_num=?
+2025-08-27 11:39:45 [http-nio-8081-exec-5] DEBUG org.hibernate.SQL - 
+    select
+        t1_0.tran_id,
+        t1_0.account_id,
+        t1_0.after_balance_amt,
+        t1_0.branch_name,
+        t1_0.created_at,
+        t1_0.inout_type,
+        t1_0.print_content,
+        t1_0.req_client_name,
+        t1_0.tran_amt,
+        t1_0.tran_date,
+        t1_0.tran_time,
+        t1_0.tran_type,
+        t1_0.updated_at,
+        t1_0.wd_account_num,
+        t1_0.wd_bank_code_std 
+    from
+        hanabank_transaction t1_0 
+    where
+        t1_0.account_id=?
+2025-08-27 11:39:45 [http-nio-8081-exec-5] INFO  c.k.h.d.t.c.TransactionController - 거래내역 조회 성공 - 거래건수: 7
+2025-08-27 12:31:29 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m55s956ms).
+2025-08-27 12:33:56 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m27s176ms).
+2025-08-27 12:40:38 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m42s395ms).
+2025-08-27 12:56:42 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m33s278ms).
+2025-08-27 13:02:15 [HikariPool-1:housekeeper] WARN  com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=5m3s955ms).
+2025-08-27 15:00:16 [SpringApplicationShutdownHook] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Commencing graceful shutdown. Waiting for active requests to complete
+2025-08-27 15:00:16 [tomcat-shutdown] INFO  o.s.b.w.e.tomcat.GracefulShutdown - Graceful shutdown complete
+2025-08-27 15:00:16 [SpringApplicationShutdownHook] INFO  o.s.o.j.LocalContainerEntityManagerFactoryBean - Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-08-27 15:00:16 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown initiated...
+2025-08-27 15:00:16 [SpringApplicationShutdownHook] INFO  com.zaxxer.hikari.HikariDataSource - HikariPool-1 - Shutdown completed.

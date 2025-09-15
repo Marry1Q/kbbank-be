@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: hanabank-backend
+  profiles:
+    active: ${SPRING_PROFILES_ACTIVE:local}
+
+# 공통 로깅 패턴 (파일 로깅 비활성화)
+logging:
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n"
