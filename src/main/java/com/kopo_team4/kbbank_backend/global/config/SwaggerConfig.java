@@ -18,7 +18,7 @@ public class SwaggerConfig {
                 .info(apiInfo())
                 .servers(List.of(
                         new Server()
-                                .url("https://hanabank-be-production.up.railway.app")
+                                .url("https://kbbank-be-production.up.railway.app")
                                 .description("Production Server")
                 ))
                 .components(new Components());
